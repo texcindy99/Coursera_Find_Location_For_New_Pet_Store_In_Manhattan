@@ -12,7 +12,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation <a name="motivation"></a>
 
-This is ... project. I was interestested in using ... data to better understand:
+This is Coursera data science capstone project. I was interestested in using ... data to better understand:
 
 1. Q1
 2. Q2
@@ -24,7 +24,7 @@ There is one notebook available here to showcase work related to the above quest
 
 There are ... data files used in the notebook. "..." is the data file for... .
 
-The data file is available at [website](http://....).
+The data can be aquired at [Foursqucare](https://foursquare.com/) with valid user account.
 
 ## Results <a name="results"></a>
 
@@ -32,4 +32,4 @@ The main findings of the code is ....
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
-Must give credit to .... for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](http://...).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Coursera and Foursquare for the data.  You can find the Licensing for the data and other descriptive information at [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science) and [Foursqucare](https://foursquare.com/).  Otherwise, feel free to use the code here as you would like! 
