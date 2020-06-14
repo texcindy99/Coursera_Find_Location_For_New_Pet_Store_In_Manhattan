@@ -12,11 +12,13 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation <a name="motivation"></a>
 
-This is Coursera data science capstone project. I was interestested in using ... data to better understand:
+This is Coursera data science capstone project. I was interestested in using venue information of Manhattan neighborhoods together with neighborhood retail and apartment rental price data to better understand:
 
-1. Q1
-2. Q2
-3. Q3
+1. Which venue information in Manhattan neighborhoods are related to pet stores?
+2. What are the relationship between venue information and pet store?
+3. How to predict the number of potential new pet store in each neighborhood?
+4. If Manhattan neighborhoods are grouped into clusters based on pet store related features, does
+   validate the prediction results?
 
 ## File Descriptions <a name="files"></a>
 
