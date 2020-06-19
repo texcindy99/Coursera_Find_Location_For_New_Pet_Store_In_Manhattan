@@ -10,6 +10,8 @@
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3. However the notebook contains code to acquire venue data from [Foursqucare](https://foursquare.com/), for which you need to sign up an account and input your credentials in the notebook. 
 
+Note that if you can't see the folium map shown properly when you run the notebook in online environment like IBM Cognitive Class, you may want to switch your web browser to google chrome.
+
 ## Project Motivation <a name="motivation"></a>
 
 This is Coursera data science capstone project: find the best neighborhood to open a new pet store in Manhattan. I was interestested in using venue information of Manhattan neighborhoods together with neighborhood retail and apartment rental price data to better understand:
