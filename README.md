@@ -14,7 +14,7 @@ Note that if you can't see the folium map shown properly when you run the notebo
 
 ## Project Motivation <a name="motivation"></a>
 
-This is Coursera data science capstone project: find the best neighborhood to open a new pet store in Manhattan. I was interestested in using venue information of Manhattan neighborhoods together with neighborhood retail and apartment rental price data to better understand:
+This is Coursera data science capstone project: find the best neighborhood to open a new pet store in Manhattan. I was interested in using venue information of Manhattan neighborhoods together with neighborhood retail and apartment rental price data to better understand:
 
 1. Which venue information in Manhattan neighborhoods are related to pet stores?
 2. What are the relationship between venue information and pet store?
