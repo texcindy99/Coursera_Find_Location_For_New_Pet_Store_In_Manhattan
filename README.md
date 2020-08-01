@@ -28,7 +28,7 @@ There is one notebook available here to showcase work related to the above quest
 
 There are two data files used in the notebook. "Manhattan_Retail_Rental_Price.csv" is the wrangled data file for Manhattan neighborhood retail rental price. The raw data can be found [here](https://www.rebny.com/content/dam/rebny/Documents/PDF/News/Research/Retail%20Reports/2019_Spring_ManhattanRetailReport.pdf). "Manhattan_Apartment_Rental_Price.csv" is the wrangled data file for Manhattan neighborhood apartment rental price. The raw data can be found  [here](https://www.rentcafe.com/average-rent-market-trends/us/ny/manhattan/).
 
-The Manhattan venue data can be aquired from [Foursqucare](https://foursquare.com/) with valid user account.
+The Manhattan venue data can be aquired from [Foursquare](https://foursquare.com/) with valid user account.
 
 ## Results <a name="results"></a>
 
@@ -36,4 +36,4 @@ The code used ridge regression model to predict pet store number in each Manhatt
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 
-Must give credit to Coursera, Foursquare, Rebny and Rentcafe for the data.  You can find the Licensing for the data and other descriptive information at [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science), [Foursqucare](https://foursquare.com/), [Rebny](https://www.rebny.com/content/dam/rebny/Documents/PDF/News/Research/Retail%20Reports/2019_Spring_ManhattanRetailReport.pdf) and [Rentcafe](https://www.rentcafe.com/average-rent-market-trends/us/ny/manhattan/). Otherwise, feel free to use the code here as you would like! 
+Must give credit to Coursera, Foursquare, Rebny and Rentcafe for the data.  You can find the Licensing for the data and other descriptive information at [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science), [Foursquare](https://foursquare.com/), [Rebny](https://www.rebny.com/content/dam/rebny/Documents/PDF/News/Research/Retail%20Reports/2019_Spring_ManhattanRetailReport.pdf) and [Rentcafe](https://www.rentcafe.com/average-rent-market-trends/us/ny/manhattan/). Otherwise, feel free to use the code here as you would like! 
